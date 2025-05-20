@@ -4,7 +4,7 @@ A beautiful and simple Flutter UI project that displays a list of Nike shoes wit
 
 ## 📸 Screenshot
 
-<img src="https://github.com/zikrizm/UTS_SUSULAN_06TPLM002_221011401529_ZIKRIMARIFATULLAH/raw/master/screenshots/preview.jpeg" width="300" alt="Tampilan utama aplikasi">
+<img src="https://github.com/zikrizm/UTS_SUSULAN_06TPLM002_221011401529_ZIKRIMARIFATULLAH/blob/main/screenshots/preview.jpeg" width="300" alt="Tampilan utama aplikasi">
 
 ## 📱 Features
 
